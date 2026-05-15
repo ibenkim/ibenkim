@@ -7,7 +7,6 @@
 <br>
 <p>I'm Ben, and I'm interested in backend and cybersecurity.</p>
 <br>
-<br>
 
 <div align="center">
 
