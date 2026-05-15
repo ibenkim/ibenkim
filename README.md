@@ -15,6 +15,6 @@ I'm interested in backends and cybersecurity.
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:0b1f3a&height=8&section=header" width="100%" />
-//<img height="160" src="https://github-readme-stats.vercel.app/api?username=ibenkim&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ibenkim&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
