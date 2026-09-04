@@ -5,7 +5,7 @@
 # Hey there! 👋
 </div>
 <br>
-<p>I'm Ben, and I'm interested in backend and cybersecurity.</p>
+<p>I'm Ben, and I'm interested in fs and security.</p>
 <br>
 
 <div align="center">
